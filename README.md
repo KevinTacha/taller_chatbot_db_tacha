@@ -36,5 +36,5 @@ Link de este repositorio: https://github.com/KevinTacha/taller_chatbot_db_tacha.
 ### Resultado Esperado:
 
 <p align="center">
-<img src="imagenes/chatbot1.png" width="500">
+<img src="imagenes/chatbot1.jpeg" width="500">
 <p/>
