@@ -7,7 +7,9 @@ Estudiante: Kevin Alejandro Tacha Herrera
 Profesor: Diego Alejandro Barragan Vargas
 
 ---
-Link de este repositorio: 
+
+Link de este repositorio: https://github.com/KevinTacha/taller_chatbot_db_tacha.git
+
 ---
 
 ### Chatbot de Sistemas Digitales
@@ -32,3 +34,7 @@ Link de este repositorio:
 ---
 
 ### Resultado Esperado:
+
+<p align="center">
+<img src="imagenes/chatbot1.png" width="500">
+<p/>
